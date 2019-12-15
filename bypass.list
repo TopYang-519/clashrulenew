@@ -1,0 +1,5 @@
+# (Bypass)
+# > Aliexpress
+USER-AGENT,aliexpress*
+DOMAIN-SUFFIX,aliexpress.com
+DOMAIN-KEYWORD,aliexpress
