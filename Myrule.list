@@ -2,7 +2,5 @@
 # > googleapis
 USER-AGENT,googleapis*
 DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,clients.google.com
-DOMAIN-SUFFIX,suggestqueries.google.com
